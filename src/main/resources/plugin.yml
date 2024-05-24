@@ -1,0 +1,8 @@
+name: End-Destinations
+version: '${project.version}'
+main: code.blurone.enddestinations.EndDestinations
+api-version: '1.20'
+load: STARTUP
+authors: [BlurOne!]
+description: A plugin that changes how teleporting to the end works. 
+website: https://github.com/BlurOne-GIT/End-Destinations
